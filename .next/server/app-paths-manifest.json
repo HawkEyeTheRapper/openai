@@ -1,0 +1,6 @@
+{
+  "/api/assistants/threads/route": "app/api/assistants/threads/route.js",
+  "/api/assistants/threads/[threadId]/messages/route": "app/api/assistants/threads/[threadId]/messages/route.js",
+  "/examples/basic-chat/page": "app/examples/basic-chat/page.js",
+  "/page": "app/page.js"
+}

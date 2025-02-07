@@ -1,0 +1,51 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[3]!./app/page.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************/
+.page_main__nw1Wk {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: white;
+}
+.page_title__po7na {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+.page_container__jZF7q {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  max-width: 1200px;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+
+.page_category__euQG3 {
+  color: black;
+  display: flex;
+  font-size: 1em;
+  border-radius: 32px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #efefef;
+  cursor: pointer;
+  max-width: 600px;
+  width: 120px;
+  height: 120px;
+  padding: 20px;
+  transition: background-color 0.3s ease;
+  font-weight: 500;
+}
+
+.page_category__euQG3:hover {
+  background-color: #e3e3eb;
+}
+
