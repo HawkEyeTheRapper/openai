@@ -49,7 +49,7 @@ a {
   right: 0;
 }
 
-@media (max-width: 1100px) {
+@media (max-width: 900px) {
   .logo {
     display: none;
   }
@@ -61,7 +61,7 @@ ol {
 }
 
 a {
-  color: blue;
+  color: black;
 }
 
 pre {
